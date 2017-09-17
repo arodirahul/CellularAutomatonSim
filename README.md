@@ -1,4 +1,4 @@
-# CSE 6010 - Modeling Urban Segregation using Cellular Automaton
+# Modeling Urban Segregation using Cellular Automaton
 
 The source file is in the path '/src'
 The executable is in the path '/bin' (THE EXECUTABLE IS NAMED AS sim)
